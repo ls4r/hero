@@ -1,0 +1,2 @@
+# hero
+Bot whatsapp sticker
